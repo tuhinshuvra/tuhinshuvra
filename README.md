@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tuhin Shuvra
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning fullstack webdevelopment
-- 💞️ I want to be a free lancer on fullstack webdevelopment
+- 🌱 I’m currently learning fullstack web development
+- 💞️ I want to be a free launcher on fullstack web development
 - 📫 How to reach me:
 - Email: tuhinshuvra18@gmail.com
 - Phone : +8801915087998
