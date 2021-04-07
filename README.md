@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @tuhinshuvra
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning fullstack webdevelopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I want to be a free lancer on fullstack webdevelopment
+- 📫 How to reach me:
+- Email: tuhinshuvra18@gmail.com
+- Phone : +8801915087998
+- Facebook:https://www.facebook.com/tuhinshuvra18
+- Github : https://github.com/tuhinshuvra
+- Linkedin: https://www.linkedin.com/in/tuhinshuvra18
 
 <!---
 tuhinshuvra/tuhinshuvra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
