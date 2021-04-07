@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuhinshuvra
+- 👋 Hi, I’m Tuhin Shuvra
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning fullstack webdevelopment
 - 💞️ I want to be a free lancer on fullstack webdevelopment
