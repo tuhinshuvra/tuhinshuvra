@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Tuhin Shuvra
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning fullstack web development
-- 💞️ I want to be a free launcher on fullstack web development
+- 👋 Hi, I’m Tuhin Shuvra- 👀 
+- 🌱 I’m a fullstack web developer and MySQL database adminnistrator
+- 💞️ I am a freelancer on fullstack web development
 - 📫 How to reach me:
+- Web : https://tuhinshuvra.com
 - Email: tuhinshuvra18@gmail.com
-- Web : tuhinshuvra.com
-- Phone : +8801915087998
+
+- Phone : +8801915087998, 01518916266
 - Facebook:https://www.facebook.com/tuhinshuvra18
 - Github : https://github.com/tuhinshuvra
 - Linkedin: https://www.linkedin.com/in/tuhinshuvra18
