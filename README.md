@@ -2,7 +2,7 @@
 - 🌱 I’m a fullstack web developer and MySQL database adminnistrator
 - 💞️ I am a freelancer on fullstack web development
 - 📫 How to reach me:
-- Web : https://tuhinshuvra.com
+- Web : https://www.developershuvra.com
 - Email: tuhinshuvra18@gmail.com
 
 - Phone : +8801915087998, 01518916266
