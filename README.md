@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tuhin Shuvra- 👀 
-- 🌱 I’m a fullstack web developer and MySQL database adminnistrator
-- 💞️ I am a freelancer on fullstack web development
+- 🌱 I’m a MERN Stack Web Developer and MySQL database adminnistrator
+- 💞️ I am a freelancer on MERN Stack Web Development
 - 📫 How to reach me:
 - Web : https://www.developershuvra.com
 - Email: tuhinshuvra18@gmail.com
