@@ -6,7 +6,7 @@
 - Email: tuhinshuvra18@gmail.com
 
 - Phone : +8801915087998, +8801518916266
-- Facebook:https://www.facebook.com/tuhinshuvra18
+- Facebook: https://www.facebook.com/tuhinshuvra18
 - Github : https://github.com/tuhinshuvra
 - Linkedin: https://www.linkedin.com/in/tuhinshuvra18
 
