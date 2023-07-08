@@ -2,7 +2,7 @@
 - 🌱 I’m a MERN Stack Web Developer and MySQL database adminnistrator
 - 💞️ I am a freelancer on MERN Stack Web Development
 - 📫 How to reach me:
-- Web : https://www.developershuvra.com
+- Web : https://tuhinshuvra.netlify.app
 - Github: https://github.com/tuhinshuvra
 - Email: tuhinshuvra18@gmail.com
 
