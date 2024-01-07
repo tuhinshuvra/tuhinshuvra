@@ -3,6 +3,8 @@
 - 💞️ I am a freelancer on MERN Stack Web Development
 
 
+
+### Technologies:
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" width="100" height="40"/>
@@ -19,6 +21,7 @@
 
 </div>
 
+</br> </br></br>
 
 ### Some of my work:
 
