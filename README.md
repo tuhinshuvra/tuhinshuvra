@@ -29,7 +29,7 @@
 
 Description: JuboFBD is an online web portal of  Jahanjeernagor University BCS Officers Forum.
 
-![JuboFBD](path/to/jubofbd-screenshot.jpg)
+![JuboFBD](https://i.ibb.co/bmTn3WK/tech-Simple-ICT-logo.png" alt="tech-Simple-ICT-logo" )
 
 #### [TechSimpleICT](https://www.techsimpleict.com)
 
