@@ -35,7 +35,7 @@ Description: JuboFBD is an online web portal of  Jahanjeernagor University BCS O
 
 Description: TechSimpleICT is the official website of TechSimple ICT organization.
 
-![TechSimpleICT](path/to/techsimpleict-screenshot.jpg)
+<img src="path/to/techsimpleict-screenshot.jpg?style=flat&logo=react&logoColor=white" alt="React" width="100" height="40"/>
 
 #### [Careers Bangladesh](https://careersbangladesh.com)
 
