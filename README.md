@@ -1,8 +1,7 @@
-# Hi there, I'm Tuhin Shuvra! 👋
+- 👋 Hi, I’m Tuhin Shuvra- 👀 
+- 🌱 I’m a MERN Stack Web Developer and MySQL database adminnistrator
+- 💞️ I am a freelancer on MERN Stack Web Development
 
-🌱 I’m a MERN Stack Web Developer and MySQL database administrator. I work as a freelancer in MERN Stack Web Development.
-
-### Technologies & Tools:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
@@ -20,17 +19,46 @@
 
 </div>
 
-### How to reach me:
-
-- Web: [tuhinshuvra.netlify.app](https://tuhinshuvra.netlify.app)
-- GitHub: [tuhinshuvra](https://github.com/tuhinshuvra)
-- Email: tuhinshuvra18@gmail.com
-- Phone: +8801915087998, +8801518916266
-- Linkedin: [tuhinshuvra18](https://www.linkedin.com/in/tuhinshuvra18)
-- Facebook: [tuhinshuvra18](https://www.facebook.com/tuhinshuvra18)
-- WhatsApp: +8801915087998
 
 ### Some of my work:
 
-<img src="path/to/project1/image.jpg" alt="Project 1" width="100" height="40"/>
-<img src="path/to/project2/image.jpg" alt="Project 2" width="100" height="40"/>
+#### [JuboFBD](https://jubofbd.com)
+
+Description: JuboFBD is a project that [provide a brief description here].
+
+![JuboFBD](path/to/jubofbd-screenshot.jpg)
+
+#### [TechSimpleICT](https://www.techsimpleict.com)
+
+Description: TechSimpleICT is a project that [provide a brief description here].
+
+![TechSimpleICT](path/to/techsimpleict-screenshot.jpg)
+
+#### [Careers Bangladesh](https://careersbangladesh.com)
+
+Description: Careers Bangladesh is a project that [provide a brief description here].
+
+![Careers Bangladesh](path/to/careersbangladesh-screenshot.jpg)
+
+</div>
+
+
+
+
+
+- 📫 How to reach me:
+- Web : https://tuhinshuvra.netlify.app
+- Github: https://github.com/tuhinshuvra
+- Email: tuhinshuvra18@gmail.com
+
+- Phone: +8801915087998, +8801518916266
+- Linkedin: https://www.linkedin.com/in/tuhinshuvra18
+- Facebook: https://www.facebook.com/tuhinshuvra18
+- WhatsApp: +8801915087998
+
+
+
+<!---
+tuhinshuvra/tuhinshuvra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
