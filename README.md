@@ -26,34 +26,18 @@
 ### Some of my work:
 
 #### [JuboFBD](https://jubofbd.com)
-
 Description: JuboFBD is an online web portal of  Jahanjeernagor University BCS Officers Forum.
 
-![JuboFBD](https://i.ibb.co/bmTn3WK/tech-Simple-ICT-logo.png" alt="tech-Simple-ICT-logo" )
-
 #### [TechSimpleICT](https://www.techsimpleict.com)
-
 Description: TechSimpleICT is the official website of TechSimple ICT organization.
 
-<img src="path/to/techsimpleict-screenshot.jpg?style=flat&logo=react&logoColor=white" alt="React" width="100" height="40"/>
-
 #### [Careers Bangladesh](https://careersbangladesh.com)
-
 Description: Careers Bangladesh is an online job portal.
 
-![Careers Bangladesh](path/to/careersbangladesh-screenshot.jpg)
-
 #### [PaymentsAll](https://paymentsall.netlify.app/)
-
 Description: PaymentsAll is an online payments system website.
 
-![Careers Bangladesh](path/to/careersbangladesh-screenshot.jpg)
-
-</div>
-
-
-
-
+</br> </br></br>
 
 ### How to reach me:
 - Web : https://tuhinshuvra.netlify.app
