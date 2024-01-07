@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tuhin Shuvra- 👀 
-- 🌱 I’m a MERN Stack Web Developer and MySQL database adminnistrator
+- 👋 Greeting, I’m Tuhin Shuvra- 👀 
+- 🌱 I’m a MERN Stack Web Developer,  Linux Server, and MySQL database administrator
 - 💞️ I am a freelancer on MERN Stack Web Development
 
 
@@ -24,19 +24,25 @@
 
 #### [JuboFBD](https://jubofbd.com)
 
-Description: JuboFBD is a project that [provide a brief description here].
+Description: JuboFBD is an online web portal of  Jahanjeernagor University BCS Officers Forum.
 
 ![JuboFBD](path/to/jubofbd-screenshot.jpg)
 
 #### [TechSimpleICT](https://www.techsimpleict.com)
 
-Description: TechSimpleICT is a project that [provide a brief description here].
+Description: TechSimpleICT is the official website of TechSimple ICT organization.
 
 ![TechSimpleICT](path/to/techsimpleict-screenshot.jpg)
 
 #### [Careers Bangladesh](https://careersbangladesh.com)
 
-Description: Careers Bangladesh is a project that [provide a brief description here].
+Description: Careers Bangladesh is an online job portal.
+
+![Careers Bangladesh](path/to/careersbangladesh-screenshot.jpg)
+
+#### [PaymentsAll](https://paymentsall.netlify.app/)
+
+Description: PaymentsAll is an online payments system website.
 
 ![Careers Bangladesh](path/to/careersbangladesh-screenshot.jpg)
 
