@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100"/>
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" width="100"/>
 
-
-
 ### How to reach me:
 
 - Web: [tuhinshuvra.netlify.app](https://tuhinshuvra.netlify.app)
@@ -30,5 +28,5 @@
 
 ### Some of my work:
 
-![Project 1](path/to/project1/image.jpg)
-![Project 2](path/to/project2/image.jpg)
+<img src="path/to/project1/image.jpg" alt="Project 1" width="400"/>
+<img src="path/to/project2/image.jpg" alt="Project 2" width="400"/>
