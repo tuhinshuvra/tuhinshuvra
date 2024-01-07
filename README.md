@@ -21,8 +21,7 @@
 
 </div>
 
-</br> </br></br>
-
+</br> </br>
 ### Some of my work:
 
 #### [JuboFBD](https://jubofbd.com)
@@ -37,7 +36,7 @@ Description: Careers Bangladesh is an online job portal.
 #### [PaymentsAll](https://paymentsall.netlify.app/)
 Description: PaymentsAll is an online payments system website.
 
-</br> </br></br>
+</br> </br>
 
 ### How to reach me:
 - Web : https://tuhinshuvra.netlify.app
